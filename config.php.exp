@@ -1,0 +1,15 @@
+<?php
+//mysql database address
+define('DB_HOST','DB_HOST');
+//mysql database user
+define('DB_USER','DB_USER');
+//database password
+define('DB_PASSWD','DB_PASSWD');
+//database name
+define('DB_NAME','DB_NAME');
+//database prefix
+define('DB_PREFIX','DB_PREFIX_');
+//auth key
+define('AUTH_KEY','AUTH_KEY');
+//cookie name
+define('AUTH_COOKIE_NAME','AUTH_COOKIE_NAME');
